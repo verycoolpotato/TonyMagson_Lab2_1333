@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Decimal: 0, 1, 2, 4, 8, 16, 32, 64, 100, 255 ");
+            Console.WriteLine("Hex: 0, 1, 2, 4, 8, 10, 20, 40, 64, FF");
         }
     }
 }
